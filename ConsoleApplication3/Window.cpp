@@ -3,7 +3,6 @@
 Window::Window() {
 	width = 800;
 	height = 600;
-
 	for (size_t i = 0; i < 1024; i++) {
 		keys[i] = 0;
 	}
